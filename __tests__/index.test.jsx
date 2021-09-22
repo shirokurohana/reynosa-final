@@ -9,13 +9,13 @@ import { render, screen } from '@testing-library/react'
 import Home from '../pages/index'
 
 describe('Home', () => {
-  it('renders a pre', () => {
+  it('renders a link', () => {
     render(<Home />)
 
-    const pre = screen.getByRole('pre', {
-      name: /Mi familia/i,
+    const link = screen.getByRole('link', {
+      name: /La Familia Reynosa/i,
     })
 
-    expect(pre).toBeInTheDocument()
+    expect(link).toBeInTheDocument()
   })
 })
