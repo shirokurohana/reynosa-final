@@ -34,10 +34,10 @@ export default function Layout( { children, home } ) {
                   </Link>
                 </li>
                 <li className="nav-item dropdown">
-                  <a className="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    More
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    See more
                   </a>
-                  <ul className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                     <li>
                       <Link href="/3">
                         <a className="dropdown-item">Ofelia</a>

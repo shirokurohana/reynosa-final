@@ -5,6 +5,7 @@
     "email": "mariareynosa@email.com",
     "member": "mother",
     "phone": "707-777-7777",
+    "hobby": "sleeping beauty",
     "id": 1
   },
   {
@@ -13,6 +14,7 @@
     "email": "estebanreynosa@email.com",
     "member": "grandpa",
     "phone": "800-777-8989",
+    "hobby": "working non-stop",
     "id": 2
   },
   {
@@ -21,6 +23,7 @@
     "email": "ofeliareynosa@email.com",
     "member": "grandma",
     "phone": "575-900-2244",
+    "hobby": "cooking up a storm",
     "id": 3
   },
   {
@@ -29,6 +32,7 @@
     "email": "rositareynosa@email.com",
     "member": "pet rabbit (baby)",
     "phone": "444-222-9911",
+    "hobby": "pigging out banana",
     "id": 4
   },
   {
@@ -37,6 +41,25 @@
     "email": "nathaliereynosa@email.com",
     "member": "me",
     "phone": "707-777-7777",
+    "hobby": "bumping to music",
     "id": 5
+  },
+  {
+    "name": "Tía Trina",
+    "birthdate": "05/11/1979",
+    "email": "tiatrina@email.com",
+    "member": "tia",
+    "phone": "707-578-9099",
+    "hobby": "gardening",
+    "id": 6
+  },
+  {
+    "name": "Tío Rafa",
+    "birthdate": "04/02/1980",
+    "email": "tiorafa@email.com",
+    "member": "tio",
+    "phone": "707-334-2255",
+    "hobby": "woodwork",
+    "id": 7
   }
 ]

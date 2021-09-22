@@ -1,7 +1,37 @@
 [
   {
     "owner_id": 1,
-    "related_ids": [2,3],
+    "related_ids": [2,3,6],
     "id": 1
+  },
+  {
+    "owner_id": 6,
+    "related_ids": [2,3,1],
+    "id": 6
+  },
+  {
+    "owner_id": 7,
+    "related_ids": [6],
+    "id": 7
+  },
+  {
+    "owner_id": 2,
+    "related_ids": [3,1,6],
+    "id": 2
+  },
+  {
+    "owner_id": 5,
+    "related_ids": [1,2,3],
+    "id": 5
+  },
+  {
+    "owner_id": 3,
+    "related_ids": [1,2,6],
+    "id": 3
+  },
+  {
+    "owner_id": 4,
+    "related_ids": [1,5],
+    "id": 4
   }
 ]

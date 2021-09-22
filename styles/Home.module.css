@@ -113,6 +113,10 @@
   margin-left: 0.5rem;
 }
 
+.navbar {
+  border-radius: 25px;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
